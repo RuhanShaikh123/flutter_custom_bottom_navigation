@@ -4,6 +4,17 @@ A lightweight and customizable bottom navigation widget for Flutter applications
 
 `flutter_custom_bottom_navigation` provides a clean animated bottom navigation with support for **2 to 6 tabs**, selected/unselected icons, custom typography, colors, spacing, rounded corners, and more.
 
+
+
+
+## Preview
+
+<p align="center">
+  <img src="example/assets/demo.gif" alt="Custom Bottom Navigation Demo" width="250">
+</p>
+
+
+
 ## Features
 
 * Supports **2 to 6 navigation items**
@@ -22,9 +33,6 @@ A lightweight and customizable bottom navigation widget for Flutter applications
 * Ripple/tap feedback
 * No external dependencies
 
-## Preview
-
-![Custom Bottom Navigation Demo](example/assets/demo.gif)
 
 ## Installation
 
